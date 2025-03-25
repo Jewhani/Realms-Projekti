@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Realm_1_TestTilemap_500x500_0: -2481451357428516992
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
