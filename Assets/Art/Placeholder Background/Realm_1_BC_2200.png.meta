@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Realm_1_BC_2200_0: 5940323257592807629
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
