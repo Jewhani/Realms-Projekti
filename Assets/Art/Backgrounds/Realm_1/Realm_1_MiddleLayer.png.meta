@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Realm_1_MiddleLayer_0: -8402335642297488815
+      Realm_1_MiddleLayer_1: -5062290200915353879
+      Realm_1_MiddleLayer_2: 6117038317297730009
+      Realm_1_MiddleLayer_3: -2664237818237194854
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Realm_1_FrontLayer_0: 4418667685650998913
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
